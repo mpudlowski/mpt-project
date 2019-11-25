@@ -13,9 +13,69 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-25T23:40:03.920+01:00
-  initializedAtString: 2019-11-25T23:40:03.920+01:00
+  lastUpdatedAtString: 2019-11-25T23:48:26.812+01:00
+  initializedAtString: 2019-11-25T23:41:19.969+01:00
   log:
+  - commitID: edb8640866c7e5544d419f1ceec0ef734d4951d3
+    mergeA: 
+    mergeB: 
+    authorName: michalp
+    authorEmail: 33500671+mpudlowski@users.noreply.github.com
+    commitEmail: 33500671+mpudlowski@users.noreply.github.com
+    commitName: michalp
+    summary: Update CurrentLayout.dwlt
+    description: 
+    timeString: 2019-11-25T23:40:34.000+01:00
+    commitTimeString: 2019-11-25T23:40:34.000+01:00
+    changes:
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\michal\Desktop\MPT\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 2c7630c4007352c3cb4b21f082af38e48ba35655
+    mergeA: 
+    mergeB: 
+    authorName: michalp
+    authorEmail: 33500671+mpudlowski@users.noreply.github.com
+    commitEmail: 33500671+mpudlowski@users.noreply.github.com
+    commitName: michalp
+    summary: abc
+    description: 
+    timeString: 2019-11-25T23:40:27.000+01:00
+    commitTimeString: 2019-11-25T23:40:27.000+01:00
+    changes:
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\michal\Desktop\MPT\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\michal\Desktop\MPT\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\michal\Desktop\MPT\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\michal\Desktop\MPT\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\michal\Desktop\MPT\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: a5dfc470cb1735a621c0bebde75ebf4c726b6eab
     mergeA: 
     mergeB: 
