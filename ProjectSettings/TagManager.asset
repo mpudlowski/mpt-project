@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - SpeedBooster
+  - object
+  - life
+  - Teleporter
+  - Booster
+  - Destroy
+  - enemy
+  - coin
+  - nextButton
+  - glove3
+  - glove1
+  - glove2
+  - facebook
+  - twitter
+  - backButton
+  - object2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1156656405
+    locked: 0
+  - name: foreground
+    uniqueID: 349688673
+    locked: 0
