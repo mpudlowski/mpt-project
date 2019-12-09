@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-11-25T23:48:25.369+01:00
-  initializedAtString: 2019-11-25T23:44:21.738+01:00
+  lastUpdatedAtString: 2019-12-09T22:04:20.861+01:00
+  initializedAtString: 2019-12-09T22:04:18.928+01:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -43,9 +45,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - HEAD
       - master
     subKeyValues:
     - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/mpudlowski/mpt-project.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin
