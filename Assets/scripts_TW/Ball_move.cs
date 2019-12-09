@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ball_move : MonoBehaviour
 {
-    public float min_z = -60f, max_z = 60f;
+    public float min_z = -60f, max_z = 50f;
     public float rotate_speed = 5f;
 
     private float rotate_angle;

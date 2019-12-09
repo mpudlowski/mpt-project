@@ -13,24 +13,54 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-09T22:08:09.919+01:00
-  initializedAtString: 2019-12-09T22:07:56.536+01:00
+  lastUpdatedAtString: 2019-12-09T22:10:52.988+01:00
+  initializedAtString: 2019-12-09T22:09:55.063+01:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: /Users/weronika/Documents/mpt-project/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: .vs/mpt-project/xs/project-cache/Assembly-CSharp-Debug.json
+    fullPath: /Users/weronika/Documents/mpt-project/.vs/mpt-project/xs/project-cache/Assembly-CSharp-Debug.json
+    projectPath: .vs/mpt-project/xs/project-cache/Assembly-CSharp-Debug.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: /Users/weronika/Documents/mpt-project/Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+  - path: .vs/mpt-project/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    fullPath: /Users/weronika/Documents/mpt-project/.vs/mpt-project/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    projectPath: .vs/mpt-project/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/mpt-project/xs/sqlite3/storage.ide
+    fullPath: /Users/weronika/Documents/mpt-project/.vs/mpt-project/xs/sqlite3/storage.ide
+    projectPath: .vs/mpt-project/xs/sqlite3/storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/mpt-project/xs/sqlite3/storage.ide-shm
+    fullPath: /Users/weronika/Documents/mpt-project/.vs/mpt-project/xs/sqlite3/storage.ide-shm
+    projectPath: .vs/mpt-project/xs/sqlite3/storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: .vs/mpt-project/xs/sqlite3/storage.ide-wal
+    fullPath: /Users/weronika/Documents/mpt-project/.vs/mpt-project/xs/sqlite3/storage.ide-wal
+    projectPath: .vs/mpt-project/xs/sqlite3/storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: .vs/mpt-project/xs/UserPrefs.xml
+    fullPath: /Users/weronika/Documents/mpt-project/.vs/mpt-project/xs/UserPrefs.xml
+    projectPath: .vs/mpt-project/xs/UserPrefs.xml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Assets/Scenes/SampleScene.unity
     fullPath: /Users/weronika/Documents/mpt-project/Assets/Scenes/SampleScene.unity
     projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/scripts_TW/Ball_move.cs
+    fullPath: /Users/weronika/Documents/mpt-project/Assets/scripts_TW/Ball_move.cs
+    projectPath: Assets/scripts_TW/Ball_move.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -46,24 +76,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/CurrentLayout.dwlt
-    fullPath: /Users/weronika/Documents/mpt-project/Library/CurrentLayout.dwlt
-    projectPath: Library/CurrentLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/EditorInstance.json
     fullPath: /Users/weronika/Documents/mpt-project/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/gfu/cache/branches.yaml
-    fullPath: /Users/weronika/Documents/mpt-project/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/weronika/Documents/mpt-project/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
@@ -80,8 +98,8 @@ MonoBehaviour:
     fullPath: /Users/weronika/Documents/mpt-project/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/weronika/Documents/mpt-project/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
@@ -91,6 +109,24 @@ MonoBehaviour:
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: /Users/weronika/Documents/mpt-project/Library/gfu/cache/repoinfo.yaml
     projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/db/db029b9155d1a174895f0a89552c8256
+    fullPath: /Users/weronika/Documents/mpt-project/Library/metadata/db/db029b9155d1a174895f0a89552c8256
+    projectPath: Library/metadata/db/db029b9155d1a174895f0a89552c8256
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/weronika/Documents/mpt-project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/weronika/Documents/mpt-project/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -106,135 +142,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/__Backupscenes/0.backup
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/__Backupscenes/0.backup
-    projectPath: Temp/__Backupscenes/0.backup
+  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/weronika/Documents/mpt-project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-0b84dcb1af41d4e0ebf20783ac92868d
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-0b84dcb1af41d4e0ebf20783ac92868d
-    projectPath: Temp/UnityTempFile-0b84dcb1af41d4e0ebf20783ac92868d
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/weronika/Documents/mpt-project/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-27b2433561c184af8ab03a991db70de6
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-27b2433561c184af8ab03a991db70de6
-    projectPath: Temp/UnityTempFile-27b2433561c184af8ab03a991db70de6
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-a2b17ce6655ae49cca2a04e00bfa6d9c
+    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-a2b17ce6655ae49cca2a04e00bfa6d9c
+    projectPath: Temp/UnityTempFile-a2b17ce6655ae49cca2a04e00bfa6d9c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-2fc5d1e5f9997413d8a07ed215788300
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-2fc5d1e5f9997413d8a07ed215788300
-    projectPath: Temp/UnityTempFile-2fc5d1e5f9997413d8a07ed215788300
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-3cc51116821854fcf9362eb375a372ce
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-3cc51116821854fcf9362eb375a372ce
-    projectPath: Temp/UnityTempFile-3cc51116821854fcf9362eb375a372ce
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-40b963001fc614855ada0426537c5b90
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-40b963001fc614855ada0426537c5b90
-    projectPath: Temp/UnityTempFile-40b963001fc614855ada0426537c5b90
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-40e7266cd29b846008328e5f17d73f3d
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-40e7266cd29b846008328e5f17d73f3d
-    projectPath: Temp/UnityTempFile-40e7266cd29b846008328e5f17d73f3d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-442df027ddef94a13acbfe986291ce0d
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-442df027ddef94a13acbfe986291ce0d
-    projectPath: Temp/UnityTempFile-442df027ddef94a13acbfe986291ce0d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-47ce56238f9e44795baa196d537858b2
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-47ce56238f9e44795baa196d537858b2
-    projectPath: Temp/UnityTempFile-47ce56238f9e44795baa196d537858b2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-4eeb364d1ce1b488d8dc581ed9d2dade
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-4eeb364d1ce1b488d8dc581ed9d2dade
-    projectPath: Temp/UnityTempFile-4eeb364d1ce1b488d8dc581ed9d2dade
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-529609f926b4e4cde895414962b1617f
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-529609f926b4e4cde895414962b1617f
-    projectPath: Temp/UnityTempFile-529609f926b4e4cde895414962b1617f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-652e61bf017ca47a79c8c20517abfa3f
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-652e61bf017ca47a79c8c20517abfa3f
-    projectPath: Temp/UnityTempFile-652e61bf017ca47a79c8c20517abfa3f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-67073953d38944e52b63c844dbe93169
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-67073953d38944e52b63c844dbe93169
-    projectPath: Temp/UnityTempFile-67073953d38944e52b63c844dbe93169
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-683922ba9d50f46afa54e6d3a98c6099
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-683922ba9d50f46afa54e6d3a98c6099
-    projectPath: Temp/UnityTempFile-683922ba9d50f46afa54e6d3a98c6099
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-6ccdf932a28054f648b82edbe5c54dbe
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-6ccdf932a28054f648b82edbe5c54dbe
-    projectPath: Temp/UnityTempFile-6ccdf932a28054f648b82edbe5c54dbe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-7112b9a3f45614606b8dd1cf8db431ac
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-7112b9a3f45614606b8dd1cf8db431ac
-    projectPath: Temp/UnityTempFile-7112b9a3f45614606b8dd1cf8db431ac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-7a52306b930dd4399ba1d47fbc33b56e
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-7a52306b930dd4399ba1d47fbc33b56e
-    projectPath: Temp/UnityTempFile-7a52306b930dd4399ba1d47fbc33b56e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-83a74aacdf89c4bfb8304aeb6ab8c26c
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-83a74aacdf89c4bfb8304aeb6ab8c26c
-    projectPath: Temp/UnityTempFile-83a74aacdf89c4bfb8304aeb6ab8c26c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-ba631c599f47c475a9c687b896295e72
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-ba631c599f47c475a9c687b896295e72
-    projectPath: Temp/UnityTempFile-ba631c599f47c475a9c687b896295e72
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-d5f4ad6c33c174ca4adec2ea6369236a
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-d5f4ad6c33c174ca4adec2ea6369236a
-    projectPath: Temp/UnityTempFile-d5f4ad6c33c174ca4adec2ea6369236a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-d8070dde283294759b10c3868cbf45f1
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-d8070dde283294759b10c3868cbf45f1
-    projectPath: Temp/UnityTempFile-d8070dde283294759b10c3868cbf45f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-e76d3fefc47874eb582855af351c7c21
-    fullPath: /Users/weronika/Documents/mpt-project/Temp/UnityTempFile-e76d3fefc47874eb582855af351c7c21
-    projectPath: Temp/UnityTempFile-e76d3fefc47874eb582855af351c7c21
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
