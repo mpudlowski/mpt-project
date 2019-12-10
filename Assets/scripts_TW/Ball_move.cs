@@ -34,6 +34,8 @@ public class Ball_move : MonoBehaviour
     void Update()
     {
         Rotate();
+		GetInput();
+		MoveGloves();
     }
 
     void Rotate()
@@ -61,13 +63,58 @@ public class Ball_move : MonoBehaviour
             rotate_right = true;
         }
 
-
-
-
-
-
     }
 
-
+	void GetInput()
+	{
+		if(Input.GetMouseButtonDown(0))
+		{
+			if(can_rotate)
+			{
+				can_rotate = false;
+				move_up = true;
+			}
+		}
+	}
+	
+	void MoveGloves()
+	{
+		if(can_rotate)
+			return;
+		
+		if(!can_rotate)
+		{
+			Vector3 temp = transform.position;
+			
+			if(move_up)
+			{
+				temp += transform.up * Time.deltaTime * move_speed;
+			} 
+			else
+			{
+				temp -= transform.up * Time.deltaTime * move_speed;
+			}	
+			transform.position = temp;
+			
+			if(temp.y >= max_y)
+			{
+				move_up = false;
+			}
+			
+			if(temp.y <= start_y)
+			{
+				can_rotate = true;
+				move_speed = start_move_speed;
+			
+			}
+			
+			
+			
+		}
+		
+	}
+	
+	
+	
 
 }
