@@ -21,6 +21,9 @@ TagManager:
   - twitter
   - backButton
   - object2
+  - Cup
+  - Ball
+  - Red_ball
   layers:
   - Default
   - TransparentFX

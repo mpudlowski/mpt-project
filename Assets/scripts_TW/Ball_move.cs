@@ -115,6 +115,9 @@ public class Ball_move : MonoBehaviour
 	}
 	
 	
-	
+	public void ballAttachedItem() 
+	{
+		move_up = false;
+	}
 
 }
