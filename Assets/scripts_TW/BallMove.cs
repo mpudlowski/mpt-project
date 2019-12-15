@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ball_move : MonoBehaviour
+public class BallMove : MonoBehaviour
 {
-    public float min_z = -60f, max_z = 50f;
+    public float min_z = -60f, max_z = 60f;
     public float rotate_speed = 5f;
 
     private float rotate_angle;
@@ -12,7 +12,7 @@ public class Ball_move : MonoBehaviour
 
     private bool can_rotate;
 
-    public float move_speed = 3f;
+    public float move_speed = 3f;  
     private float start_move_speed;
 
     public float max_y = 4.8f;
@@ -58,9 +58,9 @@ public class Ball_move : MonoBehaviour
         {
             rotate_right = false;
         }
-        else if (rotate_angle <= min_z)
+        else if(rotate_angle <= min_z)
         {
-            rotate_right = true;
+            rotate_right = true;  
         }
 
     }
@@ -115,7 +115,7 @@ public class Ball_move : MonoBehaviour
 	}
 	
 	
-	public void ballAttachedItem() 
+	public void BallAttachedItem() 
 	{
 		move_up = false;
 	}
