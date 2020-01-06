@@ -7,7 +7,7 @@ public class ball_catch : MonoBehaviour
     [SerializeField]
 	private Transform item_catch;
 	
-	private bool item_attached;
+	private bool itemAttached;
 	
 	private Ball_move Ball_move;
 	
@@ -21,14 +21,16 @@ public class ball_catch : MonoBehaviour
     // Update is called once per frame
     void OnTriggerEnter2D(Collider2D target)
     {
-        if (target.tag == Tags.Ball || target.tag == Tags.Cup || target.tag == Tags.Red_ball)
+        if (target.tag == Tags.CUP1 || target.tag == Tags.CUP2 || 
+        	target.tag == Tags.CUP3 || target.tag == Tags.RED_BALL || 
+        	target.tag == Tags.BLACK_BALL1 || target.tag == Tags.BLACK_BALL2)
 		{
-			item_attached = true;
+			itemAttached = true;
 			
 			target.transform.parent = item_catch;
 			target.transform.position = item_catch.position;
-			
-			
+			//Ball_move.move_Speed = target.GetComponent<ItemScript>().ball_Speed;
+			Ball_move.ballAttachedItem();
 		}
 
     }

@@ -4,26 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Coin
-  - SpeedBooster
+  - Cup1
+  - Cup2
+  - Cup3
+  - red_ball
+  - black_ball1
+  - black_ball2
+  - DeliverItem
   - object
-  - life
-  - Teleporter
-  - Booster
-  - Destroy
-  - enemy
-  - coin
-  - nextButton
-  - glove3
-  - glove1
-  - glove2
-  - facebook
-  - twitter
-  - backButton
-  - object2
-  - Cup
-  - Ball
-  - Red_ball
   layers:
   - Default
   - TransparentFX
