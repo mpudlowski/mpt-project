@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-01-07T23:51:36.071+01:00
   initializedAtString: 2020-01-07T23:51:36.071+01:00
   entries:
@@ -314,6 +315,41 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+=======
+  lastUpdatedAtString: 2020-01-07T00:00:15.447+01:00
+  initializedAtString: 2020-01-07T00:00:15.447+01:00
+  entries:
+  - path: .collabignore
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .gitattributes
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\.gitattributes
+    projectPath: .gitattributes
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: .gitignore
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+>>>>>>> 1ad642fd46277d7e83642451f5ec5ed519ef7ef7
   - path: Library\assetDatabase3
     fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -329,6 +365,15 @@ MonoBehaviour:
   - path: Library\CurrentLayout.dwlt
     fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\CurrentLayout.dwlt
     projectPath: Library\CurrentLayout.dwlt
+<<<<<<< HEAD
+=======
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+>>>>>>> 1ad642fd46277d7e83642451f5ec5ed519ef7ef7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -386,6 +431,7 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\InspectorExpandedItems.asset
     fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
@@ -404,12 +450,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> 1ad642fd46277d7e83642451f5ec5ed519ef7ef7
   - path: Library\metadata\00\00cc402338d46cb4ab50f08b921bb641.info
     fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\00\00cc402338d46cb4ab50f08b921bb641.info
     projectPath: Library\metadata\00\00cc402338d46cb4ab50f08b921bb641.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\metadata\00\00ed25e3298ac440eb327c706a964e3a
     fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\00\00ed25e3298ac440eb327c706a964e3a
     projectPath: Library\metadata\00\00ed25e3298ac440eb327c706a964e3a
@@ -8859,6 +8908,257 @@ MonoBehaviour:
   - path: MPT Project\Library\PackageCache\com.unity.textmeshpro@2.0.1\Scripts\Runtime\TMP_Settings.cs.meta
     fullPath: C:\Users\ja\Documents\GitHub\mpt-project\MPT Project\Library\PackageCache\com.unity.textmeshpro@2.0.1\Scripts\Runtime\TMP_Settings.cs.meta
     projectPath: MPT Project\Library\PackageCache\com.unity.textmeshpro@2.0.1\Scripts\Runtime\TMP_Settings.cs.meta
+=======
+  - path: Library\metadata\3a\3a4fd14a3eb8744459b94d66f9150e02
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\3a\3a4fd14a3eb8744459b94d66f9150e02
+    projectPath: Library\metadata\3a\3a4fd14a3eb8744459b94d66f9150e02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3a\3a4fd14a3eb8744459b94d66f9150e02.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\3a\3a4fd14a3eb8744459b94d66f9150e02.info
+    projectPath: Library\metadata\3a\3a4fd14a3eb8744459b94d66f9150e02.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3f\3f92009f07a83e245b404a4ec0af34d9.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\3f\3f92009f07a83e245b404a4ec0af34d9.info
+    projectPath: Library\metadata\3f\3f92009f07a83e245b404a4ec0af34d9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\41\4163f5453c70d7847880b6185944048a
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\41\4163f5453c70d7847880b6185944048a
+    projectPath: Library\metadata\41\4163f5453c70d7847880b6185944048a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\41\4163f5453c70d7847880b6185944048a.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\41\4163f5453c70d7847880b6185944048a.info
+    projectPath: Library\metadata\41\4163f5453c70d7847880b6185944048a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\54\54251b6ca761c8d4b895205d0b4c99b6
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\54\54251b6ca761c8d4b895205d0b4c99b6
+    projectPath: Library\metadata\54\54251b6ca761c8d4b895205d0b4c99b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\54\54251b6ca761c8d4b895205d0b4c99b6.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\54\54251b6ca761c8d4b895205d0b4c99b6.info
+    projectPath: Library\metadata\54\54251b6ca761c8d4b895205d0b4c99b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\99\99ab439d26df1684abb7abcb3b45eef4
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\99\99ab439d26df1684abb7abcb3b45eef4
+    projectPath: Library\metadata\99\99ab439d26df1684abb7abcb3b45eef4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\99\99ab439d26df1684abb7abcb3b45eef4.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\99\99ab439d26df1684abb7abcb3b45eef4.info
+    projectPath: Library\metadata\99\99ab439d26df1684abb7abcb3b45eef4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9e\9ebaecea7e587314595e47a850576818.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\9e\9ebaecea7e587314595e47a850576818.info
+    projectPath: Library\metadata\9e\9ebaecea7e587314595e47a850576818.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9e\9ee3ad925601eba4f855222bf389a0a4
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\9e\9ee3ad925601eba4f855222bf389a0a4
+    projectPath: Library\metadata\9e\9ee3ad925601eba4f855222bf389a0a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9e\9ee3ad925601eba4f855222bf389a0a4.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\9e\9ee3ad925601eba4f855222bf389a0a4.info
+    projectPath: Library\metadata\9e\9ee3ad925601eba4f855222bf389a0a4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\bd\bd3bed094635b7e4baea80c9e68952a7
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\bd\bd3bed094635b7e4baea80c9e68952a7
+    projectPath: Library\metadata\bd\bd3bed094635b7e4baea80c9e68952a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\bd\bd3bed094635b7e4baea80c9e68952a7.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\bd\bd3bed094635b7e4baea80c9e68952a7.info
+    projectPath: Library\metadata\bd\bd3bed094635b7e4baea80c9e68952a7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d874143c3bc95604c86ce81134cc806b
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\d8\d874143c3bc95604c86ce81134cc806b
+    projectPath: Library\metadata\d8\d874143c3bc95604c86ce81134cc806b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d874143c3bc95604c86ce81134cc806b.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\d8\d874143c3bc95604c86ce81134cc806b.info
+    projectPath: Library\metadata\d8\d874143c3bc95604c86ce81134cc806b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e3\e30f0f271ece5a846bfa5cc2da832930
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\e3\e30f0f271ece5a846bfa5cc2da832930
+    projectPath: Library\metadata\e3\e30f0f271ece5a846bfa5cc2da832930
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e3\e30f0f271ece5a846bfa5cc2da832930.info
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\e3\e30f0f271ece5a846bfa5cc2da832930.info
+    projectPath: Library\metadata\e3\e30f0f271ece5a846bfa5cc2da832930.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: MPT.sln
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\MPT.sln
+    projectPath: MPT.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: mpt-project
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\mpt-project
+    projectPath: mpt-project
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: mpt-project.sln
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\mpt-project.sln
+    projectPath: mpt-project.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Packages\manifest.json
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b9ac8295ce2a71f499ec776ae5e60a5f
+    fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Temp\UnityTempFile-b9ac8295ce2a71f499ec776ae5e60a5f
+    projectPath: Temp\UnityTempFile-b9ac8295ce2a71f499ec776ae5e60a5f
+>>>>>>> 1ad642fd46277d7e83642451f5ec5ed519ef7ef7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5

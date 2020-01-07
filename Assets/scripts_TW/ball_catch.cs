@@ -27,6 +27,7 @@ public class ball_catch : MonoBehaviour
 		{
 			itemAttached = true;
 			
+<<<<<<< HEAD
 			target.transform.parent = itemHolder;
 			target.transform.position = itemHolder.position;
 			//ball_move.move_speed = target.GetComponent<ItemScript>().ball_speed;
@@ -43,6 +44,12 @@ public class ball_catch : MonoBehaviour
          		
          		// Not getting the point
          	}
+=======
+			target.transform.parent = item_catch;
+			target.transform.position = item_catch.position;
+			//Ball_move.move_Speed = target.GetComponent<ItemScript>().ball_Speed;
+			Ball_move.ballAttachedItem();
+>>>>>>> 1ad642fd46277d7e83642451f5ec5ed519ef7ef7
 		}
 		
 		if(target.tag == Tags.DELIVER_ITEM) {

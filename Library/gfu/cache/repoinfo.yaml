@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-01-07T23:51:16.984+01:00
   initializedAtString: 2020-01-07T23:51:16.984+01:00
+=======
+  lastUpdatedAtString: 2020-01-07T00:00:15.441+01:00
+  initializedAtString: 2020-01-07T00:00:15.441+01:00
+>>>>>>> 1ad642fd46277d7e83642451f5ec5ed519ef7ef7
   currentGitRemote:
     name: origin
     url: https://github.com/mpudlowski/mpt-project.git
