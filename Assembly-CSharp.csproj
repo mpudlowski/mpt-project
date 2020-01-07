@@ -53,9 +53,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameplayManager.cs" />
      <Compile Include="Assets\scripts_TW\ball_catch.cs" />
      <Compile Include="Assets\scripts_TW\Ball_move.cs" />
+     <Compile Include="Assets\scripts_TW\helper scripts\GamePlayManager.cs" />
      <Compile Include="Assets\scripts_TW\helper scripts\tagsmgm.cs" />
+     <Compile Include="Assets\scripts_TW\ItemScripts\ItemScript.cs" />
      <Compile Include="Assets\supergoalkeeper\game_core\plugins\FSMSystem.cs" />
      <Compile Include="Assets\supergoalkeeper\game_core\scripts\achievementSystem\achievement.cs" />
      <Compile Include="Assets\supergoalkeeper\game_core\scripts\achievementSystem\actionBehaviour.cs" />

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ball_move : MonoBehaviour
 {
-    public float min_z = -60f, max_z = 50f;
+    public float min_z = -50f, max_z = 40f;
     public float rotate_speed = 5f;
 
     private float rotate_angle;
@@ -15,7 +15,7 @@ public class Ball_move : MonoBehaviour
     public float move_speed = 3f;
     private float start_move_speed;
 
-    public float max_y = 4.8f;
+    public float max_y = 3.8f;
     private float start_y;
     private bool move_up;
 
@@ -63,7 +63,7 @@ public class Ball_move : MonoBehaviour
             rotate_right = true;
         }
 
-    }
+    } //can rotate
 
 	void GetInput()
 	{
@@ -75,7 +75,7 @@ public class Ball_move : MonoBehaviour
 				move_up = true;
 			}
 		}
-	}
+	} // get input
 	
 	void MoveGloves()
 	{
@@ -107,17 +107,13 @@ public class Ball_move : MonoBehaviour
 				move_speed = start_move_speed;
 			
 			}
-			
-			
-			
 		}
 		
 	}
 	
 	
-	public void ballAttachedItem() 
-	{
+	public void ballAttachedItem() {
 		move_up = false;
 	}
-
+ 
 }

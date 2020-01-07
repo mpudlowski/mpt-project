@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/supergoalkeeper/scenes/settings.unity
     guid: 60180cd5b3cb543ce89c0c2b441aa0d0
+  - enabled: 1
+    path: Assets/Scenes/Gameplay.unity
+    guid: 9c8e87c981beb9142b78fd799242025d
   m_configObjects: {}

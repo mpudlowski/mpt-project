@@ -13,9 +13,454 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-12-10T20:36:39.305+01:00
-  initializedAtString: 2019-12-10T18:45:32.833+01:00
+  lastUpdatedAtString: 2020-01-07T23:51:16.645+01:00
+  initializedAtString: 2020-01-07T23:51:16.645+01:00
   log:
+  - commitID: a5bf6331b35af3eae0bd8e76fcc052e525c33108
+    mergeA: 
+    mergeB: 
+    authorName: reenlam
+    authorEmail: krzysztofc94@gmail.com
+    commitEmail: krzysztofc94@gmail.com
+    commitName: reenlam
+    summary: modify .gitignore
+    description: 
+    timeString: 2019-12-18T00:50:25.000+01:00
+    commitTimeString: 2019-12-18T00:50:25.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: b22ef04de08636705602d0dc5f24f8b5541a865a
+    mergeA: 
+    mergeB: 
+    authorName: reenlam
+    authorEmail: krzysztofc94@gmail.com
+    commitEmail: krzysztofc94@gmail.com
+    commitName: reenlam
+    summary: test commit
+    description: 
+    timeString: 2019-12-18T00:06:44.000+01:00
+    commitTimeString: 2019-12-18T00:06:44.000+01:00
+    changes:
+    - path: test
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\test
+      projectPath: test
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: f43099bd3c071e608380c84e298e31708fdb6e1d
+    mergeA: 
+    mergeB: 
+    authorName: reenlam
+    authorEmail: krzysztofc94@gmail.com
+    commitEmail: krzysztofc94@gmail.com
+    commitName: reenlam
+    summary: test commit
+    description: 
+    timeString: 2019-12-18T00:02:51.000+01:00
+    commitTimeString: 2019-12-18T00:02:51.000+01:00
+    changes:
+    - path: test
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\test
+      projectPath: test
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 0c2739cca79132f1a0254d1bf427c06f8ac5f18e
+    mergeA: 
+    mergeB: 
+    authorName: twojtas
+    authorEmail: tomasz.wojtas.17@gmail.com
+    commitEmail: tomasz.wojtas.17@gmail.com
+    commitName: twojtas
+    summary: wojtasowy komit 2
+    description: chwytanie
+    timeString: 2019-12-10T20:41:08.000+01:00
+    commitTimeString: 2019-12-10T20:41:08.000+01:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Player.prefab
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\Prefabs\Player.prefab
+      projectPath: Assets\Prefabs\Player.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs.meta
+      projectPath: Assets\elements_prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (1).prefab
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (1).prefab
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (1).prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (1).prefab.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (1).prefab.meta
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (1).prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (2).prefab
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (2).prefab
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (2).prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (2).prefab.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (2).prefab.meta
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (2).prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (3).prefab
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (3).prefab
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (3).prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (3).prefab.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (3).prefab.meta
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (3).prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (4).prefab
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (4).prefab
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (4).prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (4).prefab.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (4).prefab.meta
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (4).prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (5).prefab
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (5).prefab
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (5).prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\EUR_6x4_9 (5).prefab.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\EUR_6x4_9
+        (5).prefab.meta
+      projectPath: Assets\elements_prefabs\EUR_6x4_9 (5).prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\ball_p_5.prefab
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\ball_p_5.prefab
+      projectPath: Assets\elements_prefabs\ball_p_5.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\elements_prefabs\ball_p_5.prefab.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\elements_prefabs\ball_p_5.prefab.meta
+      projectPath: Assets\elements_prefabs\ball_p_5.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\scripts_TW\Ball_move.cs
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\scripts_TW\Ball_move.cs
+      projectPath: Assets\scripts_TW\Ball_move.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\scripts_TW\ball_catch.cs
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\scripts_TW\ball_catch.cs
+      projectPath: Assets\scripts_TW\ball_catch.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\scripts_TW\ball_catch.cs.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\scripts_TW\ball_catch.cs.meta
+      projectPath: Assets\scripts_TW\ball_catch.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\scripts_TW\helper scripts.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\scripts_TW\helper
+        scripts.meta
+      projectPath: Assets\scripts_TW\helper scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\scripts_TW\helper scripts\tagsmgm.cs
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\scripts_TW\helper
+        scripts\tagsmgm.cs
+      projectPath: Assets\scripts_TW\helper scripts\tagsmgm.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\scripts_TW\helper scripts\tagsmgm.cs.meta
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Assets\scripts_TW\helper
+        scripts\tagsmgm.cs.meta
+      projectPath: Assets\scripts_TW\helper scripts\tagsmgm.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Collab\CollabSnapshot_96bc0c0c-bf7d-4e9a-942b-0ab0a27e9e05.txt
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\Collab\CollabSnapshot_96bc0c0c-bf7d-4e9a-942b-0ab0a27e9e05.txt
+      projectPath: Library\Collab\CollabSnapshot_96bc0c0c-bf7d-4e9a-942b-0ab0a27e9e05.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\a07e66-00cc402338d46cb4ab.json
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\StateCache\Hierarchy\a07e66-00cc402338d46cb4ab.json
+      projectPath: Library\StateCache\Hierarchy\a07e66-00cc402338d46cb4ab.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\dd35ca-mainStage.json
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\StateCache\SceneView\dd35ca-mainStage.json
+      projectPath: Library\StateCache\SceneView\dd35ca-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00cc402338d46cb4ab50f08b921bb641
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\00\00cc402338d46cb4ab50f08b921bb641
+      projectPath: Library\metadata\00\00cc402338d46cb4ab50f08b921bb641
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\00\00cc402338d46cb4ab50f08b921bb641.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\00\00cc402338d46cb4ab50f08b921bb641.info
+      projectPath: Library\metadata\00\00cc402338d46cb4ab50f08b921bb641.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\37\3777e576dbcf2d446b56def07311c063
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\37\3777e576dbcf2d446b56def07311c063
+      projectPath: Library\metadata\37\3777e576dbcf2d446b56def07311c063
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\37\3777e576dbcf2d446b56def07311c063.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\37\3777e576dbcf2d446b56def07311c063.info
+      projectPath: Library\metadata\37\3777e576dbcf2d446b56def07311c063.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\55\55b0cee4f213e084dbcc4ccaacc654c7
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\55\55b0cee4f213e084dbcc4ccaacc654c7
+      projectPath: Library\metadata\55\55b0cee4f213e084dbcc4ccaacc654c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\55\55b0cee4f213e084dbcc4ccaacc654c7.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\55\55b0cee4f213e084dbcc4ccaacc654c7.info
+      projectPath: Library\metadata\55\55b0cee4f213e084dbcc4ccaacc654c7.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\5a\5ac14c4726361db4f96fe19d5048c193
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\5a\5ac14c4726361db4f96fe19d5048c193
+      projectPath: Library\metadata\5a\5ac14c4726361db4f96fe19d5048c193
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\5a\5ac14c4726361db4f96fe19d5048c193.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\5a\5ac14c4726361db4f96fe19d5048c193.info
+      projectPath: Library\metadata\5a\5ac14c4726361db4f96fe19d5048c193.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\5d\5d1a9850519257a49ab018517a08357b
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\5d\5d1a9850519257a49ab018517a08357b
+      projectPath: Library\metadata\5d\5d1a9850519257a49ab018517a08357b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\5d\5d1a9850519257a49ab018517a08357b.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\5d\5d1a9850519257a49ab018517a08357b.info
+      projectPath: Library\metadata\5d\5d1a9850519257a49ab018517a08357b.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\96\9672969660978f347afd42d52aa50985
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\96\9672969660978f347afd42d52aa50985
+      projectPath: Library\metadata\96\9672969660978f347afd42d52aa50985
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\96\9672969660978f347afd42d52aa50985.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\96\9672969660978f347afd42d52aa50985.info
+      projectPath: Library\metadata\96\9672969660978f347afd42d52aa50985.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\9d\9d0f2db788aba774485a158230f96466
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\9d\9d0f2db788aba774485a158230f96466
+      projectPath: Library\metadata\9d\9d0f2db788aba774485a158230f96466
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\9d\9d0f2db788aba774485a158230f96466.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\9d\9d0f2db788aba774485a158230f96466.info
+      projectPath: Library\metadata\9d\9d0f2db788aba774485a158230f96466.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\a1\a1afb7f7163ccb9408e493c581554865
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\a1\a1afb7f7163ccb9408e493c581554865
+      projectPath: Library\metadata\a1\a1afb7f7163ccb9408e493c581554865
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\a1\a1afb7f7163ccb9408e493c581554865.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\a1\a1afb7f7163ccb9408e493c581554865.info
+      projectPath: Library\metadata\a1\a1afb7f7163ccb9408e493c581554865.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\aa\aa13589d0fc98fb40bb533dc1451493e
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\aa\aa13589d0fc98fb40bb533dc1451493e
+      projectPath: Library\metadata\aa\aa13589d0fc98fb40bb533dc1451493e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\aa\aa13589d0fc98fb40bb533dc1451493e.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\aa\aa13589d0fc98fb40bb533dc1451493e.info
+      projectPath: Library\metadata\aa\aa13589d0fc98fb40bb533dc1451493e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\db\db029b9155d1a174895f0a89552c8256
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\db\db029b9155d1a174895f0a89552c8256
+      projectPath: Library\metadata\db\db029b9155d1a174895f0a89552c8256
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\e4\e42d5ea54d73acc488ea49245dd55400
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\e4\e42d5ea54d73acc488ea49245dd55400
+      projectPath: Library\metadata\e4\e42d5ea54d73acc488ea49245dd55400
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\e4\e42d5ea54d73acc488ea49245dd55400.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\e4\e42d5ea54d73acc488ea49245dd55400.info
+      projectPath: Library\metadata\e4\e42d5ea54d73acc488ea49245dd55400.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\e5\e59238462dbe1064ab31e8884985266a
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\e5\e59238462dbe1064ab31e8884985266a
+      projectPath: Library\metadata\e5\e59238462dbe1064ab31e8884985266a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\e5\e59238462dbe1064ab31e8884985266a.info
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\metadata\e5\e59238462dbe1064ab31e8884985266a.info
+      projectPath: Library\metadata\e5\e59238462dbe1064ab31e8884985266a.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\ja\Documents\GitHub\mpt-project\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 9ab96b176c5bfe6d39001386e250bf5561509a53
     mergeA: 
     mergeB: 
